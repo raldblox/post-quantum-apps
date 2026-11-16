@@ -16,7 +16,7 @@ flowchart LR
 | Project | What it is | Repository | Status |
 |---|---|---|---|
 | Perennial | Pension protocol: the principal is never spent, only the yield is paid out | [raldblox/perennial](https://github.com/raldblox/perennial) | In development |
-| PQ-402 | x402 extension: ML-DSA-87 signed payments, ML-KEM-1024 sealed requests | [raldblox/pq-402](https://github.com/raldblox/pq-402) | v0.1.1, escrow live on the QoreChain testnet |
+| PQ-402 | x402 extension: ML-DSA-87 signed payments, ML-KEM-1024 sealed requests | [raldblox/pq-402](https://github.com/raldblox/pq-402) | v0.1.2, escrow live on the QoreChain testnet |
 | Overwinter | OpenAI-compatible inference adapter that pays through PQ-402 | [raldblox/overwinter](https://github.com/raldblox/overwinter) | Planned |
 
 Projects are added here as submodules when they reach a tagged release.
